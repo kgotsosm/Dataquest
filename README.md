@@ -10,7 +10,8 @@ The Dataquest data engineering learning path includes the following modules:
 - SQL Fundamentals
 - Building a Data Pipeline
 - Production Databases in Python
-- Data Pipeline Orchestration with Airflow
+
+
 Each module contains a series of interactive lessons and exercises designed to help learners develop practical skills in data engineering.
 
 ## Usage
