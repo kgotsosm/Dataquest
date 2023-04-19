@@ -17,8 +17,5 @@ Each module contains a series of interactive lessons and exercises designed to h
 ## Usage
 Feel free to explore the notebooks in this repository to see how I worked through the exercises and applied the concepts covered in the learning path. You can run the notebooks yourself by cloning this repository and running them in a Jupyter Notebook environment.
 
-## Contributing
-I am not currently accepting contributions to this repository, as it is intended to showcase my personal work on the Dataquest data engineering learning path. However, feel free to fork the repository and create your own version if you would like to contribute your own work.
-
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
