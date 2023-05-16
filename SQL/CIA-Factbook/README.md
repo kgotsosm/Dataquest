@@ -13,7 +13,7 @@
 The CIA Factbook is a valuable resource for researchers, analysts, and curious individuals who want to explore data about countries. This project aims to demonstrate how we can extract meaningful information and perform analyses using the CIA Factbook dataset. By leveraging SQL and data manipulation techniques, we can uncover insights and draw conclusions about various aspects of different countries.
 
 ### Data
-The CIA Factbook dataset contains a wide range of information about countries worldwide. It covers various aspects such as population, GDP, land area, climate, and more. The dataset is available in a structured format, allowing us to extract and analyze specific data points of interest.
+The CIA Factbook dataset contains a wide range of information about countries worldwide. It covers various aspects such as population, GDP, land area, climate, and more. The dataset is available in a structured format, allowing us to extract and analyze specific data points of interest. The data can be found on https://www.cia.gov/the-world-factbook/
 
 ### Usage
 To use this project, follow these steps:
