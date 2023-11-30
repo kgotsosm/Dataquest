@@ -1,5 +1,5 @@
 # Python Data Engineering Projects
-**This repository contains Python projects focused on data engineering from Dataquest. The projects included are "Analyzing Profitable Apps" and "Exploring Hacker News." These projects provide hands-on experience in working with real-world datasets, performing data analysis, and gaining insights from the data.**
+**This repository contains Python projects focused on data engineering from Dataquest. The projects included are "Analyzing Profitable Apps", "Analysing Profitable Apps" and "Exploring Hacker News." These projects provide hands-on experience in working with real-world datasets, performing data analysis, and gaining insights from the data.**
 
 ### Table of Contents
 1. Introduction
